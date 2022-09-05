@@ -3,7 +3,7 @@
 [![npm (scoped)](https://img.shields.io/npm/v/bs-commerce-models.svg)](https://www.npmjs.com/package/bs-commerce-models)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/bs-commerce-models.svg)](https://www.npmjs.com/package/bs-commerce-models)
 
-Removes all spaces from a string.
+This package is created to describing an object with properties, interfaces are also capable of describing function types. Typescript allows an interface to inherit from multiple interfaces. Use the extends keyword to implement inheritance among interfaces.
 
 ## Install
 
