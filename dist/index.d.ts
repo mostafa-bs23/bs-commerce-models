@@ -1,1 +1,1 @@
-export * from './manufacturer/index';
+export * as manufacturer from './manufacturer/index';
