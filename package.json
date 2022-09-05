@@ -1,0 +1,35 @@
+{
+  "name": "bs-commerce-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "tsc --build",
+    "start": "tsc -p tsconfig.json && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafa-bs23/bs-commerce-models.git"
+  },
+  "keywords": [
+    "models",
+    "packages",
+    "types"
+  ],
+  "author": "Md. Mostafa Al Mahmud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafa-bs23/bs-commerce-models/issues"
+  },
+  "homepage": "https://github.com/mostafa-bs23/bs-commerce-models#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.15"
+  },
+  "dependencies": {
+    "typescript": "^4.8.2"
+  }
+}
