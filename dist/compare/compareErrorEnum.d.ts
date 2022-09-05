@@ -1,0 +1,12 @@
+export declare const enum AddProductToCompareErrorEnum {
+    CAN_NOT_ADD_ITEM_FOR_COMPARING = "CAN_NOT_ADD_ITEM_FOR_COMPARING."
+}
+export declare const enum GetCompareErrorEnum {
+    COMPARISON_LIST_IS_EMPTY = "COMPARISON_LIST_IS_EMPTY.",
+    COMPARISON_NOT_FOUND = "COMPARISON_NOT_FOUND."
+}
+export declare const enum DeleteCompareErrorEnum {
+    COMPARISON_CAN_NOT_BE_DELETED_OR_NOT_EXIST = "COMPARISON_CAN_NOT_BE_DELETED_OR_NOT_EXIST.",
+    ITEM_CAN_NOT_BE_DELETED = "ITEM_CAN_NOT_BE_DELETED.",
+    INVALID_ID = "INVALID PRODUCT ID"
+}
